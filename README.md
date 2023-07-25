@@ -30,7 +30,7 @@ def circulate():
     print("After circulating the values are:",result)
 ```
 ## Output:
-![output](/swapping1.png)
+![output](/circulate%20n%20value.jpg)
 
 ## Result:
 Thus the swapping of two values are successfully executed.
